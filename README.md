@@ -1,1 +1,1 @@
-LOGIN SCRIPT USERNAME: admin PASSWORD: admin123
+Read me
