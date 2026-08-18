@@ -1,6 +1,7 @@
 # README.md
 _[!NOTE]_
-**LOGIN SCRIPT USERNAME: admin PASSWORD: admin123**
+**LOGIN SCRIPT 
+USERNAME: admin PASSWORD: admin123**
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <div align="left">
